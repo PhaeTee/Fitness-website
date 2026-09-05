@@ -31,7 +31,9 @@ export default function Navbar() {
             Login
           </button>
           <button className="bg-accent text-white px-5 py-2.5 rounded-full font-medium hover:opacity-90 transition">
-            Register
+            Register 
+
+            
           </button>
         </div>
       </div>
