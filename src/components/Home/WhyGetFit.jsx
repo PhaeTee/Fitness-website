@@ -36,7 +36,7 @@ export default function WhyGetFit() {
               />
               <h3 className="text-xl font-semibold">Modern Equipment</h3>
               <p className="text-base text-secondary leading-relaxed">
-                Train with quality equipment built for every goal
+                Train with quality equipment built for every goal.
               </p>
             </div>
 
@@ -48,7 +48,8 @@ export default function WhyGetFit() {
               />
               <h3 className="text-xl font-semibold">Expert Trainers</h3>
               <p className="text-base text-secondary leading-relaxed">
-                Get audience from experienced coaches.
+                Get guidance from experienced coaches who help you train smarter
+                and reach your goals.
               </p>
             </div>
 
@@ -60,7 +61,8 @@ export default function WhyGetFit() {
               />
               <h3 className="text-xl font-semibold">Flexible Plans</h3>
               <p className="text-base text-secondary leading-relaxed">
-                Membership options for your needs
+                Choose a membership plan that fits your needs and
+                fitness journey.
               </p>
             </div>
 
@@ -72,8 +74,8 @@ export default function WhyGetFit() {
               />
               <h3 className="text-xl font-semibold">Digital Experience</h3>
               <p className="text-base text-secondary leading-relaxed">
-                Register online and access your digital membership card from
-                your account.
+                Register online and access your digital membership card with
+                ease.
               </p>
             </div>
 
@@ -85,7 +87,7 @@ export default function WhyGetFit() {
               />
               <h3 className="text-xl font-semibold">Community</h3>
               <p className="text-base text-secondary leading-relaxed">
-                Connect and build with like-minded people
+                Connect with like-minded people and stay motivated.
               </p>
             </div>
 
@@ -97,7 +99,7 @@ export default function WhyGetFit() {
               />
               <h3 className="text-xl font-semibold ">Group Fitness</h3>
               <p className="text-base text-secondary leading-relaxed">
-                Stay motivated with engaging sessions
+                Stay motivated with engaging group sessions that make every workout more enjoyable.
               </p>
             </div>
           </div>

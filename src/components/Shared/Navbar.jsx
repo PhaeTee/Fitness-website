@@ -15,7 +15,7 @@ export default function Navbar() {
           <Link to="/about" className="text-text hover:text-accent transition">
             About
           </Link>
-          <Link to="/plan" className="text-text hover:text-accent transition">
+          <Link to="/plans" className="text-text hover:text-accent transition">
             Membership Plans
           </Link>
           <Link
@@ -30,11 +30,12 @@ export default function Navbar() {
           <button className="text-primary font-medium hover:text-accent transition">
             Login
           </button>
-          <button className="bg-accent text-white px-5 py-2.5 rounded-full font-medium hover:opacity-90 transition">
-            Register 
-
-            
-          </button>
+          <Link
+            to="/register"
+            className="bg-primary text-white px-5 py-2 rounded-lg"
+          >
+            Get Started
+          </Link>
         </div>
       </div>
     </nav>
