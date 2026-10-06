@@ -27,9 +27,9 @@ export default function Navbar() {
         </div>
 
         <div className="flex items-center gap-6">
-          <button className="text-primary font-medium hover:text-accent transition">
+          <Link to="/login" className="text-primary font-medium hover:text-accent transition">
             Login
-          </button>
+          </Link>
           <Link
             to="/register"
             className="bg-primary text-white px-5 py-2 rounded-lg"

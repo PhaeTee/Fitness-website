@@ -8,6 +8,8 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import Membership from "./Pages/Membership";
 import Signup from "./Pages/Signup";
+import Login from "./Pages/Login";
+import OTP from "./Pages/OTP";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -18,6 +20,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/plans" element={<Membership />} />
         <Route path="/register" element={<Signup />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/otp" element={<OTP />} />
       </Routes>
     </>
   );
